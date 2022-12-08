@@ -1,1 +1,3 @@
-echo abcde
+
+#!/bin/sh
+echo "hoge"
